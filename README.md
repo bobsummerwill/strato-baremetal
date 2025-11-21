@@ -1,6 +1,10 @@
-[<img src="https://blockapps.net/wp-content/uploads/2024/06/BlockAppsLogos_Color-Horizontal-1.png">](https://blockapps.net/)
+# REPOSITORY IS DEPRECATED
 
-# STRATO Mercata Node Provisioning
+The repository is obsolete and deprecated. Please use the 'server-manager' in https://github.com/blockapps/strato-getting-started instead.
+
+---
+
+## STRATO Mercata Node Provisioning
 
 ### So you want to run a STRATO Mercata Validator Node, Marooch?
 
